@@ -19,4 +19,4 @@ and able to increase efficiency, because it&#39;s physically close to the proces
 
 
 
-                                                                       》Experiment from 2020
+                                                                 》Experiment from 2020
