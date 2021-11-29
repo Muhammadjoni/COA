@@ -1,4 +1,5 @@
-# COA Projects from 2020
+#  Computer Organization & Architecture 
+
 To see the effect frame size has on different replacement policies. Learn how to do
 simulation of cache performance. Use the simulator to compare the hit ratio for cache
 with different block sizes and replacement strategies. The report describing the results of
@@ -15,3 +16,7 @@ typically some form of DRAM .
 typically integrated directly into the CPU chip or placed on a separate chip that has a
 separate bus interconnect with the CPU. Therefore, it is more accessible to the processor,
 and able to increase efficiency, because it&#39;s physically close to the processor.
+
+
+
+                                                                       》Experiment from 2020
