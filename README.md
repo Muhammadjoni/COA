@@ -1,4 +1,4 @@
-# COA
+# COA Projects from 2020
 To see the effect frame size has on different replacement policies. Learn how to do
 simulation of cache performance. Use the simulator to compare the hit ratio for cache
 with different block sizes and replacement strategies. The report describing the results of
